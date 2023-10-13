@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Gnanwhizkid 2k23</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="images/logo.jpg" rel="icon">
+  
+  <script src="https://cdn.logwork.com/widget/countdown.js"></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <div>
+        <img src="images/logo.png" alt="" class="img-fluid" height="100px" width="200px">
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#events">Events</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="https://chat.whatsapp.com/IrpQF6ZJv812HyA813D564">Whatsapp Group<img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt=""></a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          <h1 data-aos="fade-up">Gnanamani College of Technology</h1>
+          <h4 data-aos="fade-up" class="mt-2" data-aos-delay="400">The National Level Technical Symposium</h4>
+          <div data-aos="fade-up" class="my-3" data-aos-delay="400">
+            <h4 class="text-primary"><b>Gnanwhizkid 2k23</b></h4>
+          </div>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="https://forms.gle/6tBapgp79ZM8MZHg8" target="_blank" class="btn-get-started scrollto">Register now</a>
+          </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2 hero-img mt-4" data-aos="fade-left" data-aos-delay="200"><br>
+          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+<div class="row mt-2">
+  <div class="col-md-12 col-lg-12 col-sm-12">
+    <div class="section-title" data-aos="fade-up" data-aos-delay="100">
+      <h4>DEPARTMENTS</h4>
+    </div>
+  </div>
+</div>
+        <div class="row">
+          <div class="col-lg-4 col-md-4 col-4">
+            <img src="images/cse.png" class="img-fluid" height="100px" width="100px" alt="" data-aos="zoom-in" data-aos-delay="100">
+          </div>
+          <div class="col-lg-4 col-md-4 col-4">
+            <img src="images/ai.png" class="img-fluid" height="100px" width="100px" alt="" data-aos="zoom-in" data-aos-delay="100">
+          </div>
+          <div class="col-lg-4 col-md-4 col-4">
+            <img src="images/it.png" class="img-fluid" alt="" height="100px" width="100px" data-aos="zoom-in" data-aos-delay="200">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Services Section ======= -->
+    <section id="events" class="services">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>EVENTS</h2>
+        </div>
+        <div class="row g-3">
+          <div class="col-md-4" width="100%">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><a href="#events">PAPER PRESENTATION</a></h4>
+              <p class="description">
+                <span><b>Venue :</b></span><br>
+                <span><b>Duration :</b> </span>
+              </p>
+              <button class="btn btn-primary btn-sm my-2" data-bs-toggle="modal" data-bs-target="#exampleModal1">Learn More</button>
+            </div>
+          </div>
+
+          <div class="col-md-4" width="100%">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><a href="#events">TECH QUIZ</a></h4>
+              <p class="description">
+                <span><b>Venue :</b></span><br>
+                <span><b>Duration :</b></span>
+              </p>
+              <button class="btn btn-primary btn-sm my-2" data-bs-toggle="modal" data-bs-target="#exampleModal2">Learn More</button>
+            </div>
+          </div>
+
+         
+
+          <div class="col-md-4" width="100%">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><a href="#events">SHORT FILM</a></h4>
+              <p class="description">
+                <span><b>Venue :</b></span><br>
+                <span><b>Duration :</b></span>
+              </p>
+              <button class="btn btn-primary btn-sm my-2" data-bs-toggle="modal" data-bs-target="#exampleModal4">Learn More</button>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                <h4 class="title"><a href="#events">CODE DEBUGGING</a></h4>
+                <p class="description">
+                  <span><b>Venue :</b></span><br>
+                  <span><b>Duration :</b></span>
+                </p>
+                <button class="btn btn-primary btn-sm my-2" data-bs-toggle="modal" data-bs-target="#exampleModal5">Learn More</button>
+              </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><a href="#events">WEB DESIGN</a></h4>
+              <p class="description">
+                <span><b>Venue :</b> </span><br>
+                <span><b>Duration :</b></span>
+              </p>
+              <button class="btn btn-primary btn-sm my-2" data-bs-toggle="modal" data-bs-target="#exampleModal6">Learn More</button>
+            </div>
+          </div>
+      </div>
+    </section>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-12 col-lg-12">
+      <a href="https://logwork.com/countdown-whzf" class="countdown-timer" data-timezone="Asia/Kolkata" data-date="2023-10-28 09:00">COUNTDOWN</a>
+    </div>
+  </div>
+</div>
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about clients">
+      <div class="container my-3">
+
+        <div class="section-title" data-aos="fade-up">
+          <h4>ABOUT US</h4>
+        </div>
+
+        <div class="row content mb-3">
+          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="150">
+            <p>
+              Emerging as a technical institution of high standard and excellence to produce quality Engineers, Researchers, Administrators and Entrepreneurs with ethical and moral values to contribute the sustainable development of the society.
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> To have in-depth domain knowledge with analytical and practical skills in cutting edge technologies by imparting quality technical education.</li>
+              <li><i class="ri-check-double-line"></i>To be industry ready and multi-skilled personalities to transfer technology to industries and rural areas by creating interests among students in Research and Development and Entrepreneurship</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+
+        <!-- ======= About Us Section ======= -->
+        <section id="management_prof" class="about">
+          <div class="container">
+    
+            <div class="section-title" data-aos="fade-up">
+              <h4>MANAGEMENT</h4>
+            </div>
+    
+            <div class="row content">
+              <div class="col-lg-12" data-aos="fade-up" data-aos-delay="150">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> The Gnyanamani educational Institutions are run by the two legendary academicians Dr.T.Arangannal - a Rashtria Vidya Saraswathi Puraskar Awardee for his outstanding achievement in the field of education and a recipient of Doctorate from the University of Srilanka for his consummate services to education and Mrs.P.Malaleena.These two legends have been the great support and encouragement of Gnyanamani educational Institutions and taking it to newer heights.</li>
+                  <li><i class="ri-check-double-line"></i>The Institutions have been standing out as a unique place of learning in imparting quality education under the eminent administrator Dr.P.Premkumar, Chief Administrative Officer who is striving to promote the institution in the upward ladders of success.</li>
+                  <li><i class="ri-check-double-line"></i>Gnyanamani educational Institutions have a unique distinction of having the best teaching faculty. The highly devoted teaching staff give their motivation to knowledge hungry students and the earnestness of the trust in imparting quality education under the leadership of the eminent Principal Dr.T.K.Kannan. They lead to extra mile and make sure that the students' perform well constantly for their career success.</li>
+                </ul>
+              </div>
+            </div>
+    
+          </div>
+        </section><!-- End About Us Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h4 class="mt-3">CONTACT US</h4>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-7 col-md-7" data-aos="fade-up" data-aos-delay="100">
+            <h5><b>Faculty Coordinators</b></h5>
+            <ul type="square">
+              <li>Prof P Sathyasutha : 9943915997</li>
+              <li>Prof J Gayathri : 9788513628 </li>
+              <li>Prof R Pradeepa : 8939999104</li>
+            </ul>
+            <h5 class="mt-5"><b>Student Coordinators</b></h5>
+            <ul type="square">
+              <li>S Balasurya : 6379462430</li>
+              <li>R Thirish : 8754649351</li>
+            </ul>
+          </div>
+
+
+          <div class="col-lg-5 col-md-5" data-aos="fade-up" data-aos-delay="300">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15643.251960559674!2d78.1572225!3d11.4211157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x815f949d1bf01c0a!2sGnanamani%20College%20of%20Technology!5e0!3m2!1sen!2sin!4v1663669892442!5m2!1sen!2sin" height="400px" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container-fluid">
+      <div class="row d-flex align-items-center">
+        <div class="col-lg-6 text-lg-left text-center">
+          <div class="copyright">
+            &copy; <strong></strong>Gnanwhizkid 2k22
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+
+
+  <!-- Modal for paper presentation-->
+<div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel1">Paper Presentation</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li>Participant should send the PPT to <span class="text-primary">gnanwhizkid2k22@gmail.com</span></li><br>
+          <li>PPT must related to the department (CSE , AI&DS and IT)</li><br>
+          <li>Submit the PPT before <span class="text-primary">04.10.2022</span></li><br>
+          <li>Intimation Date <span class="text-primary">05.10.2022</span></li><br>
+          <li>Maximum 3 memebers per team</li><br>
+          <li>5 minutes for presentation & 1 minute for queries.</li>
+        </ul>
+        <a href="https://chat.whatsapp.com/FdsdOEKnxbjAKxf3FTJrfq"><img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt="">Join to Whatsapp Group</a>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary float-end" data-bs-dismiss="modal" aria-label="Close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Modal for Tech Kahoot-->
+  <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel2">Tech Quiz</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li>Maximum 3 memebers per team</li>
+          <li>4 Rounds</li>
+        </ul>
+        <a href="https://chat.whatsapp.com/KWERdzaSYlh1jicwRAcEvG"><img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt="">Join to Whatsapp Group</a>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary float-end" data-bs-dismiss="modal" aria-label="Close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- Modal for Coding Tunnel-->
+  <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel2">Project Presentation</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li>Maximum 3 members per team</li><br>
+          <li>Bring the loptop . If you need .</li>
+        </ul>
+        <a href="https://chat.whatsapp.com/I27ENw9UXfeKtbFTn06Jt9"><img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt="">Join to Whatsapp Group</a>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary float-end" data-bs-dismiss="modal" aria-label="Close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Modal for Tech Kahoot-->
+  <div class="modal fade" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel2">Short Film</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li>video should be within 5 min</li>
+          <li>Maximum 3 members per team</li>
+        </ul>
+        <a href="https://chat.whatsapp.com/L1zPuTnuTG36ejUdPDDOk9"><img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt="">Join to Whatsapp Group</a>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary float-end" data-bs-dismiss="modal" aria-label="Close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- Modal for Tech Kahoot-->
+  <div class="modal fade" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel2">Code Debugging</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li>Solo event</li><br>
+          <li>2 Rounds
+            <ul>
+              <li>Round 1 - Prelimes</li>
+              <li>Round 2 - Hackerrank</li>
+            </ul>
+          </li><br>
+        </ul>
+        <a href="https://chat.whatsapp.com/FMrXzld4X8r1gece2KGhvK"><img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt="">Join to Whatsapp Group</a>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary float-end" data-bs-dismiss="modal" aria-label="Close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- Modal for Tech Kahoot-->
+  <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel2">Poster Design</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+          <li>Solo Event</li>
+          <li>Topic will give in on the spot</li>
+        </ul>
+        <a href="https://chat.whatsapp.com/JD2uBOFPInp7mo6prwNazH"><img src="whatsapp.png" class="img-fluid mx-2" height="40px" width="40px" alt="">Join to Whatsapp Group</a>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary float-end" data-bs-dismiss="modal" aria-label="Close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+
+</html>
